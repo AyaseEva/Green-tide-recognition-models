@@ -1,2 +1,2 @@
 # Green-tide-recognition-models
-绿潮识别模型
+绿潮自动识别模型
